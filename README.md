@@ -1,4 +1,4 @@
-## Visuallization Tool For Text Analysis on Collection Exegesis of Recipes
+## Visualization Tool For Text Analysis on Collection Exegesis of Recipes
 
 All the graphs are generated using [Gephi](https://gephi.org/)
 
